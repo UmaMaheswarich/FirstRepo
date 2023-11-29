@@ -1,0 +1,1 @@
+This is a folder created while practicing the git commands inn git bash
