@@ -1,1 +1,2 @@
-This is a folder created while practicing the git commands inn git bash
+This is a folder created while practicing the git commands inn git bash. 
+further made this change to check the changes pushed in to therepository using bash commands
